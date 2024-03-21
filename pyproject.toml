@@ -1,0 +1,20 @@
+[tool.poetry]
+name = "chat"
+version = "0.1.0"
+description = ""
+authors = ["“MinhThai” <“thaisinh1181998@gmail.com”>"]
+readme = "README.md"
+
+[tool.poetry.dependencies]
+python = "^3.11"
+uvicorn = "^0.29.0"
+fastapi = "^0.110.0"
+websocket = "^0.2.1"
+pymongo = "^4.6.2"
+requests = "^2.31.0"
+pytz = "^2024.1"
+
+
+[build-system]
+requires = ["poetry-core"]
+build-backend = "poetry.core.masonry.api"
