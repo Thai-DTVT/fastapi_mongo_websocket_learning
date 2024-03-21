@@ -8,7 +8,7 @@
 - [Python] 
 - [FastApi]
 - [Html] 
-- [Websocket] - Markdown parser done right. Fast and easy to extend.
+- [Websocket] 
 - [Add lib] - https://www.geeksforgeeks.org/simple-chat-application-using-websockets-with-fastapi/
 ## Installation & Run
 
